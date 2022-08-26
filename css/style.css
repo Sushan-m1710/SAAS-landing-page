@@ -233,7 +233,6 @@ box-shadow: 5px 10px 10px rgba(105, 105, 105, 1);
     }
 
     .main-image img{
-        /* display: none; */
         margin: 40px 10px 0 10px;
         width:fit-content;
         margin-left: 0;
